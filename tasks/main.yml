@@ -10,4 +10,3 @@
     disable_gpg_check: yes
     name: vector-{{ vector_version }}.rpm
     notify: Start vector
-tags: vector
